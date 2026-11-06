@@ -4,6 +4,8 @@ C++ source for `1337clicker.exe`, a left clicker for Lunar Client on Minecraft 1
 
 从 `1337clicker.exe` 还原的 C++ 源码，Lunar 1.7/1.8 连点器。
 
+The built exe is on the [Releases](../../releases/latest) page. 编译好的 exe 在 Releases 页面。
+
 The original exe is not in this repo. It is an unpacked x64 MinGW build that kept its symbols, so function and global names come from the exe. Names of inlined helpers are new.
 
 Original sha256: `46b4055beda0c47cf105d64ea0006638935e87a67e96eece53e9bd787869d346`
